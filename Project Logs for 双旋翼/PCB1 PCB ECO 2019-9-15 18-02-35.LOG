@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CSN Pin=STM1-25
+Removed Pin From Net: NetName=IRQ Pin=STM1-29
+Added Pin To Net: NetName=IRQ Pin=STM1-25
+Added Pin To Net: NetName=CSN Pin=STM1-29

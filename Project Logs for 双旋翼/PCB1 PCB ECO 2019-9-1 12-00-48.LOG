@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4_2.54_90 New Footprint=HDR1x4_2.54_180
+Added Component: Designator=C15(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=3V3 Pin=C15-2
+Added Member To Class: ClassName=‘≠¿ÌÕº Member=Component C15 Cap_0603
